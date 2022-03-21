@@ -8,7 +8,7 @@ As ferramentas usadas foram:
 
 O teste teve como parâmetros:
 
--Verificar o Input do Nome
+-Verificar o Input do Nome /n
 -Verificar o TextArea de "Observações"
 -Verificar o Checkbox
 -Verificar se os botões de adicionar e subtrair estavam funcinando corretamente
